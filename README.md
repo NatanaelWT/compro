@@ -28,17 +28,17 @@ Aplikasi "Smart School" akan memiliki beberapa fitur utama, termasuk:
 
 <br><br>
 
-# dYs? LIST DEFAULT ACCOUNT
+# LIST DEFAULT ACCOUNT
 
-### dY"O **Admin/root access**
+### **Admin/root access**
 - **Username:** root
 - **Password:** admin
 
-### dY"O **Guru/teacher access**
+### **Guru/teacher access**
 - **Username:** guru
 - **Password:** guru
 
-### dY"O **Murid/student access**
+### **Murid/student access**
 - **Username:** siswa
 - **Password:** siswa
 
